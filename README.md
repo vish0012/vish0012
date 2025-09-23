@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/Website-tlab.hongo.wide.ad.jp-16A34A)](https://tlab.hongo.wide.ad.jp/members/)
 [![GitHub](https://img.shields.io/badge/GitHub-vish0012-24292e?logo=github)](https://github.com/vish0012)
 
-### Hero
+### About me 
 
 I’m a researcher focused on embodied AI, robotics interfaces, autonomous vehicles, and VR/XR technologies. My
 diverse experience across India, Singapore, Taiwan, France, Malaysia, the USA, Portugal, Norway, and Japan has
