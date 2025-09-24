@@ -14,7 +14,7 @@ I’m a researcher focused on embodied AI, robotics interfaces, autonomous vehic
 diverse experience across India, Singapore, Taiwan, France, Malaysia, the USA, Portugal, Norway, and Japan has
 sharpened my skills in human-machine interaction. Driven by global insights, I create practical, user-centered
 solutions that connect advanced research with real-world applications. My passion lies in innovating transformative
-technologies that redefine human-machine experiences
+technologies that redefine human-machine experiences.
 
 ### Quick stats
 - **Location:** Tokyo (JST / UTC+9)  
