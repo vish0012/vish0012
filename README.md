@@ -16,9 +16,3 @@
 - **Location:** Tokyo (JST / UTC+9)  
 - **Role:** Doctoral candidate, Creative Informatics  
 - **Contact:** vishalchauhan@outlook.sg
-
-### Tech stack
-- **Core:** Python · ROS2 · C++ · Unity/Unreal · Autoware · AWSIM  
-- **Tools:** Docker · Linux · Grafana · YOLO · TensorFlow/PyTorch · Quarto  
-- **Cloud/DevOps:** GitHub Actions 
-- **Data/AI:** CV pipelines · deep learning · analytics
