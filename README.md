@@ -15,7 +15,6 @@
 ### Quick stats
 - **Location:** Tokyo (JST / UTC+9)  
 - **Role:** Doctoral candidate, Creative Informatics  
-- **Interests:** eHMI/Robotics · AV UX · XR/VR · ROS2/Autoware · ML  
 - **Contact:** vishalchauhan@outlook.sg
 
 ### Tech stack
