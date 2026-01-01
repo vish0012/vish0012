@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Vishal Chauhan — AI/AV HMI · Creative Informatics (UTokyo)
+# Vishal Chauhan —  Creative Informatics (UTokyo)
 
 [![Email](https://img.shields.io/badge/Email-vishalchauhan@outlook.sg-0A66C2)](mailto:vishalchauhan@outlook.sg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aivishalcom-0A66C2)](https://www.linkedin.com/in/aivishalcom/)
