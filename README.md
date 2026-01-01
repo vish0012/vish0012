@@ -10,7 +10,7 @@
 
 ### About me 
 
- My passion lies in innovating transformative technologies that redefine human-machine experiences and robotics.
+ My passion lies in innovating transformative technologies that redefine human-machine experiences, AI and robotics.
 
 ### Quick stats
 - **Location:** Tokyo (JST / UTC+9)  
